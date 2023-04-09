@@ -10,7 +10,6 @@
   <a href="https://github.com/savioomio">
   <img height="250em" src="https://github-readme-stats.vercel.app/api?username=savioomio&theme=blue-green"/>
   <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=savioomio&theme=blue-green"/>
-  <img height="250em" src="https://starchart.cc/savioomio/Atividade_PSW_11_04_2023.svg"/>
 </div>
 
   <br>
