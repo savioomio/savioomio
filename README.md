@@ -8,8 +8,8 @@
 
 <div tyle="display: flex; justify-content:center;">
   <a href="https://github.com/savioomio">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=savioomio&theme=blue-green"/>
-  <!--<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=savioomio&theme=blue-green"/>-->
+  <img height="250em" src="https://github-readme-stats.vercel.app/api?username=savioomio&theme=blue-green"/>
+  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=savioomio&theme=blue-green"/>
 </div>
 
   <br>
