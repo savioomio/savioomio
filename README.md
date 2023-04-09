@@ -4,10 +4,12 @@
 - 📚 Estudando Informática no [Instituto Federal Baiano - Campus Guanambi](https://www.ifbaiano.edu.br/unidades/guanambi/) 4/6
 - 💻 Apaixonado por tecnologia
 
-<div align="center">
+<br>
+
+<div tyle="display: flex; justify-content:center;">
   <a href="https://github.com/savioomio">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=savioomio&theme=blue-green"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=savioomio&theme=blue-green"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=savioomio&theme=blue-green"/>
+  <!--<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=savioomio&theme=blue-green"/>-->
 </div>
 
   <br>
