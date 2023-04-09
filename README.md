@@ -7,7 +7,7 @@
 <div align="center">
   <a href="https://github.com/savioomio">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=savioomio&theme=blue-green"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=savioomio&theme=blue-green"/>
+  <img height="200em" src="	https://starchart.cc/savioomio/Atividade_PSW_11_04_2023.svg"/>
 </div>
 
 <div style="display: inline_block"><br>
