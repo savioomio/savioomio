@@ -7,9 +7,10 @@
 <div align="center">
   <a href="https://github.com/savioomio">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=savioomio&theme=blue-green"/>
-  <img height="200em" src="	https://starchart.cc/savioomio/Atividade_PSW_11_04_2023.svg"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=savioomio&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
 
+<h3 align="left">Languages and Tools:</h3>
 <div style="display: inline_block"><br>
   <img align="center" alt="Sávio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
   <img align="center" alt="Sávio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
