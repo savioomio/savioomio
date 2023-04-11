@@ -1,10 +1,11 @@
-### Olá! Eu sou o Sávio Pessôa Afonso
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FF7F&height=100&section=header"/>
 
-
-- 📚 Estudando Informática no [Instituto Federal Baiano - Campus Guanambi](https://www.ifbaiano.edu.br/unidades/guanambi/) 4/6
-- 💻 Apaixonado por tecnologia
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF7F&size=35&center=true&vCenter=true&width=1000&lines=Ola,+meu+nome+é+Sávio+Pessôa+Afonso;Eu+tenho+17+anos;Eu+estudo+Informática+no+Instituto+Federal;Bem+vindo!+:%29)](https://git.io/typing-svg)
 
 <br>
+<br>
+
+![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=savioomio&theme=gotham)
 
 <div tyle="display: flex; justify-content:center;">
   <a href="https://github.com/savioomio">
@@ -34,3 +35,5 @@
   <a href="https://www.linkedin.com/in/sávio-p-583386243/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FF7F&height=100&section=footer"/>
