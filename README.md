@@ -13,6 +13,10 @@
 </div>
 
   <br>
+<div>
+  
+   <img align="right" alt="Ícaro-Rick" alt="Ícaro-Jupyter" height="200" 
+       src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.pinterest.com%2Fpin%2F772085929854513683%2F&psig=AOvVaw0UfdRDMDFifd2cFw0N_Z7t&ust=1681320253177000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKD37pWsov4CFQAAAAAdAAAAABAE">
 <h3 align="left">Languages and Tools:</h3>
 <div style="display: inline_block">
   <img align="center" alt="Sávio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
@@ -32,6 +36,7 @@
   <a href = "mailto:saviopessaafonso@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/sávio-p-583386243/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
+</div>
 </div>
 
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2aa889&height=100&section=footer"/>
