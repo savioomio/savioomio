@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FF7F&height=100&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2aa889&height=100&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2aa889&size=40&center=true&vCenter=true&width=1000&lines=Ola,+meu+nome+é+Sávio+Pessôa+Afonso;Eu+tenho+17+anos;Eu+estudo+Informática+no+Instituto+Federal;Bem+vindo!+:%29)](https://git.io/typing-svg)
 
@@ -34,4 +34,4 @@
   
 </div>
 
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FF7F&height=100&section=footer"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2aa889&height=100&section=footer"/>
