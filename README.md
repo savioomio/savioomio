@@ -1,16 +1,15 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FF7F&height=100&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF7F&size=35&center=true&vCenter=true&width=1000&lines=Ola,+meu+nome+é+Sávio+Pessôa+Afonso;Eu+tenho+17+anos;Eu+estudo+Informática+no+Instituto+Federal;Bem+vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2aa889&size=40&center=true&vCenter=true&width=1000&lines=Ola,+meu+nome+é+Sávio+Pessôa+Afonso;Eu+tenho+17+anos;Eu+estudo+Informática+no+Instituto+Federal;Bem+vindo!+:%29)](https://git.io/typing-svg)
 
 <br>
 <br>
 
 ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=savioomio&theme=gotham)
 
-<div tyle="display: flex; justify-content:center;">
-  <a href="https://github.com/savioomio">
-  <img height="250em" src="https://github-readme-stats.vercel.app/api?username=savioomio&theme=blue-green"/>
-  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=savioomio&theme=blue-green"/>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=savioomio&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Sávio github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=savioomio&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
   <br>
@@ -24,7 +23,6 @@
   <img align="center" alt="Sávio-Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
   <img align="center" alt="Sávio-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   <img align="center" alt="Sávio-WordPress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
-  <img align="center" alt="Sávio-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
  </div>
   
 <br>  
