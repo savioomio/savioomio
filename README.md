@@ -15,8 +15,9 @@
   <br>
 <div>
   
-   <img align="right" alt="Ícaro-Rick" alt="Ícaro-Jupyter" height="200" 
-       src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.pinterest.com%2Fpin%2F772085929854513683%2F&psig=AOvVaw0UfdRDMDFifd2cFw0N_Z7t&ust=1681320253177000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKD37pWsov4CFQAAAAAdAAAAABAE">
+<img src="https://user-images.githubusercontent.com/115905335/231295658-1b75c35e-fb7d-4f77-8360-e97c25e46ba6.jpg" height="250px" align="right">
+
+
 <h3 align="left">Languages and Tools:</h3>
 <div style="display: inline_block">
   <img align="center" alt="Sávio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
