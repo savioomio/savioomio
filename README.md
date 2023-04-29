@@ -28,7 +28,7 @@
   <img align="center" alt="Sávio-Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
   <img align="center" alt="Sávio-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   <img align="center" alt="Sávio-WordPress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
-  <img align="center" alt="Sávio-Scratch" height="30" width="70" src="https://store-images.s-microsoft.com/image/apps.23276.14205598541777108.d0471565-31cc-4061-beba-0830f2c9a787.69d1f503-8ef3-4838-84cb-f5bdd690c9e8" />
+  <img align="center" alt="Sávio-Scratch" height="35" width="40" src="https://user-images.githubusercontent.com/115905335/235304763-accef733-78b0-4c1b-969a-963713902dcb.svg" />
  </div>
   
 <br>  
