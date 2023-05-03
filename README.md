@@ -1,11 +1,11 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2aa889&height=100&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bdbd&height=100&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2aa889&size=40&center=true&vCenter=true&width=1000&lines=Ola,+meu+nome+é+Sávio+Pessôa+Afonso;Eu+tenho+17+anos;Eu+estudo+Informática+no+Instituto+Federal;Bem+vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bdbd&size=40&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Sávio+Pessôa+Afonso;Eu+tenho+17+anos;Eu+estudo+Informática+no+Instituto+Federal;Bem+vindo!+:%29)](https://git.io/typing-svg)
 
 <br>
 <br>
 
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=savioomio&theme=gotham)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=savioomio&bg_color=0d1117&color=00bdbd&line=00bdbd&point=a3fdff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=savioomio&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Sávio github stats" /> 
@@ -41,4 +41,4 @@
 </div>
 </div>
 
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2aa889&height=100&section=footer"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bdbd&height=100&section=footer"/>
