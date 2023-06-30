@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bdbd&height=100&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c8ff00&height=150&section=header"/>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=savioomio&bg_color=0d1117&color=c8ff00&line=fbff00&point=99ff00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
