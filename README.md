@@ -15,8 +15,9 @@
 
   <br>
 <div>
+
   
-<img src="https://user-images.githubusercontent.com/115905335/231295658-1b75c35e-fb7d-4f77-8360-e97c25e46ba6.jpg" height="250px" align="right">
+<img src="https://github.com/savioomio/savioomio/assets/115905335/a0c0b22f-fd02-473c-b740-e82db7163ab4.gif" height="250px" align="right">
 
 
 <h3 align="left">Languages and Tools:</h3>
