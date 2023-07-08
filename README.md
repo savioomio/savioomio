@@ -18,6 +18,7 @@
 
   
 <img src="https://github.com/savioomio/savioomio/assets/115905335/a0c0b22f-fd02-473c-b740-e82db7163ab4.gif" height="250px" align="right">
+<br>
 
 
 <h3 align="left">Languages and Tools:</h3>
