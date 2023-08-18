@@ -23,7 +23,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,cpp,css,html,bootstrap,php,mysql,wordpress,netlify,vscode" />
+    <img src="https://skillicons.dev/icons?i=arduino,cpp,css,html,bootstrap,php,mysql,wordpress,netlify" />
   </a>
  </div>
   
