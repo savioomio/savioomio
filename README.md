@@ -25,6 +25,12 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=arduino,cpp,css,html,bootstrap,php,mysql,wordpress" />
   </a>
+
+<h3 align="left">Learning:</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,django,sqlite,tailwind" />
+  </a>
+  
  </div>
   
 <br>  
