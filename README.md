@@ -23,12 +23,12 @@
 
 <h3 align="left">Languages and Tools:</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,cpp,css,html,bootstrap,php,mysql,wordpress" />
+    <img src="https://skillicons.dev/icons?i=arduino,cpp,css,html,bootstrap,php,mysql,wordpress,py,django,sqlite" />
   </a>
 
 <h3 align="left">Learning:</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,django,sqlite" />
+    <img src="https://skillicons.dev/icons?i=opencv" />
   </a>
   
  </div>
