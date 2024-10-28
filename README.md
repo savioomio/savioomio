@@ -18,10 +18,21 @@
   <img src="https://github.com/user-attachments/assets/fdc1ebd2-604c-4334-8293-1da45c13445c" alt="ilustração de um computador" min-width="400px" max-width="300px" width="300px" align="right">
   
   <h3 align="left">Main Skills:</h3>
-  
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,cpp,bootstrap,tailwind,php,wordpress,python,django,opencv,js,nodejs,react" />
-  </a>
+
+
+ <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=arduino" width="50" /></a>
+ <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cpp" width="50" /></a>
+ <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=bootstrap" width="50" /></a>
+ <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=tailwind" width="50" /></a>
+ <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=php" width="50" /></a>
+ <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=wordpress" width="50" /></a>
+ <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python" width="50" /></a>
+ <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=django" width="50" /></a>
+ <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=opencv" width="50" /></a>
+ <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js" width="50" /></a>
+ <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs" width="50" /></a>
+ <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react" width="50" /></a>
+
 
 </div>
   
