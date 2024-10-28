@@ -1,41 +1,38 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c8ff00&height=80&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F8EFD4&height=80&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c8ff00&size=40&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Sávio+Pessôa+Afonso;Eu+tenho+17+anos;Eu+estudo+Informática+no+Instituto+Federal;Bem+vindo!+😎)](https://git.io/typing-svg)
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=savioomio&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
+
+### Olá, meu nome é <Sávio Pessôa Afonso/>!
+
+<img src="https://img.shields.io/static/v1?label=Overview&message=savioomio&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+
+ - Trabalhando na Wicomm
+ - Eu sou desenvolvedor Front-End Jr
+ - Mentalidade de David Goggins
+ - Studying English at wise up 1/18
 
 <br>
-<br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=savioomio&bg_color=0d1117&color=c8ff00&line=fbff00&point=99ff00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=savioomio&show_icons=true&count_private=true&hide_border=true&title_color=c8ff00&icon_color=c8ff00&text_color=c8ff00&bg_color=0d1117" alt="Sávio github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=savioomio&layout=compact&hide_border=true&title_color=c8ff00&text_color=c8ff00&bg_color=0d1117" />
-</div>
-
-  <br>
 <div>
 
-<h3 align="left">Languages and Tools:</h3>
+  <img src="https://github.com/user-attachments/assets/fdc1ebd2-604c-4334-8293-1da45c13445c" alt="ilustração de um computador" min-width="400px" max-width="300px" width="300px" align="right">
+  
+  <h3 align="left">Main Skills:</h3>
+  
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,cpp,css,html,bootstrap,php,mysql,wordpress,py,django,sqlite" />
+    <img src="https://skillicons.dev/icons?i=arduino,cpp,bootstrap,tailwind,php,wordpress,python,django,opencv,js,nodejs,react" />
   </a>
 
-<h3 align="left">Learning:</h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=opencv,js,nodejs,tailwind,react" />
-  </a>
-  
- </div>
+</div>
   
 <br>  
-<h3 align="left">Cotact:</h3>
+
+<h3 align="left">Get in touch:</h3>
+
 <div> 
   <a href="https://www.instagram.com/savioomio/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" ></a>
   <a href = "mailto:saviopessaafonso@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/sávio-p-583386243/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
-</div>
+  <a href="https://www.linkedin.com/in/savioomio" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c8ff00&height=80&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F8EFD4&height=80&section=footer"/>
