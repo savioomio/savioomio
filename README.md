@@ -7,9 +7,11 @@
 <img src="https://img.shields.io/static/v1?label=Overview&message=savioomio&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
  - Trabalhando na Wicomm
- - Eu sou desenvolvedor Front-End Jr
+ - Programador Front end
+ - Desenvolvedor web e mobile
+ - Modelador 3D
  - Mentalidade de David Goggins
- - Studying English at wise up 1/18
+ - Studying English at wise up | Basic II
 
 <br>
 
