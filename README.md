@@ -8,9 +8,8 @@
 
  - Trabalhando na Wicomm
  - Programador Front end
- - Desenvolvedor web e mobile
+ - Desenvolvedor web, mobile e desktop
  - Modelador 3D
- - Mentalidade de David Goggins
  - Studying English at wise up | Basic II
 
 <br>
