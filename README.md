@@ -22,7 +22,7 @@
 
 
  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=arduino" width="50" /></a>
- <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cpp" width="50" /></a>
+ <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c" width="50" /></a>
  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=bootstrap" width="50" /></a>
  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=tailwind" width="50" /></a>
  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=php" width="50" /></a>
