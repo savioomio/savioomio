@@ -29,7 +29,6 @@
  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=wordpress" width="50" /></a>
  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python" width="50" /></a>
  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=django" width="50" /></a>
- <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=opencv" width="50" /></a>
  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js" width="50" /></a>
  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react" width="50" /></a>
  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts" width="50" /></a>
