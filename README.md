@@ -10,7 +10,7 @@
  - Programador Front end
  - Desenvolvedor web, mobile e desktop
  - Modelador 3D
- - Studying English at wise up | Basic II
+ - Studying English at wise up | Basic III
 
 <br>
 
