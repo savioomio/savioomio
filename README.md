@@ -8,9 +8,8 @@
 
  - Trabalhando na Wicomm
  - Programador Front end
- - Desenvolvedor web, mobile e desktop
+ - Desenvolvedor web e desktop
  - Modelador 3D
- - Studying English at wise up | Basic III
 
 <br>
 
