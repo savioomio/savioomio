@@ -10,6 +10,7 @@
  - Programador Front end
  - Desenvolvedor web e desktop
  - Modelador 3D
+ - Cursando Engenharia de Software (FIAP)[1/8]
 
 <br>
 
