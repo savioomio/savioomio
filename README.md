@@ -10,28 +10,8 @@
  - Programador Front end
  - Desenvolvedor web e desktop
  - Modelador 3D
- - Cursando Engenharia de Software (FIAP)[1/8]
+ - Cursando Engenharia de Software (FIAP)[2/8]
 
-<br>
-
-<div>
-  <h3 align="left">Main Skills:</h3>
-
- <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=arduino" width="50" /></a>
- <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c" width="50" /></a>
- <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=bootstrap" width="50" /></a>
- <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=tailwind" width="50" /></a>
- <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=php" width="50" /></a>
- <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=wordpress" width="50" /></a>
- <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python" width="50" /></a>
- <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=django" width="50" /></a>
- <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js" width="50" /></a>
- <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react" width="50" /></a>
- <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts" width="50" /></a>
-
-
-</div>
-  
 <br>  
 
 <h3 align="left">Get in touch:</h3>
